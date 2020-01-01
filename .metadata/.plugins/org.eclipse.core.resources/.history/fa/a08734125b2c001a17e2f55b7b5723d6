@@ -1,0 +1,5 @@
+package org.ms.movie_catalog_service.resource;
+
+public class MovieCatalogResource {
+
+}

@@ -1,0 +1,5 @@
+package org.ms.movieInfoService.resource;
+
+public class MovieResource {
+
+}

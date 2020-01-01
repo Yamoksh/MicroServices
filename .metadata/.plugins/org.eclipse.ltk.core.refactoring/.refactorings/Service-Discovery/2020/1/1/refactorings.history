@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Service-Discovery/src/main/java/org/ms/ratinginfoservice&apos; to &apos;servicediscovery&apos;" description="Rename resource &apos;ratinginfoservice&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/org/ms/ratinginfoservice" name="servicediscovery" stamp="1577892414361" updateReferences="true"/>
+</session>

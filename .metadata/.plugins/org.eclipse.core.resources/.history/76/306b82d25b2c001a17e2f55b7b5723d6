@@ -1,0 +1,18 @@
+package org.ms.movie_catalog_service.resource;
+
+import java.util.Collections;
+import java.util.List;
+
+import org.ms.movie_catalog_service.model.CatalogItem;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MovieCatalogResource {
+	
+	
+	public List<CatalogItem> getCatalog(String userId){
+		return Collections.singletonList(
+			new CatalogItem(name: "Gabbar", desc: "My favourite Movie",rating:4)
+		);
+	}
+}
